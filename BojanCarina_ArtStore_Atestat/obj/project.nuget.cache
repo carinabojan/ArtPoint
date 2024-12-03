@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhRoh09Wf0D16O6t6Z7xzAD4FXAIuP8WMEA4M9DIDJ7+TaqTmSf4L+FIGQr3ZAYcjjU7RDhzsc4Wx7tMdVmqnw==",
+  "success": true,
+  "projectFilePath": "C:\\BojanCarina_ArtPoint_Atestat\\BojanCarina_ArtStore_Atestat\\BojanCarina_ArtStore_Atestat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Carina\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Carina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Carina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

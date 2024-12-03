@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BojanCarina_ArtStore_Atestat/1.0.0": {
+        "runtime": {
+          "BojanCarina_ArtStore_Atestat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BojanCarina_ArtStore_Atestat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

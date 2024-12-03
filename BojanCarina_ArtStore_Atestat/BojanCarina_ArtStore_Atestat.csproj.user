@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="DigitalUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MyCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PaintingsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ReadMoreGreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ReadMorePurple.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ReadMoreYellow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SculpturesUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
